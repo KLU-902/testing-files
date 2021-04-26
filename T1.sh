@@ -7,7 +7,15 @@
 
 
 
-'
+echo -e 'Enter 1 to start :'
+read opt
+if[ $opt = "1" ];
+
+then
+abot
+else 
+echo -e 'OOPS  SOME THING WENT WRONG '
+
 
 
 
